@@ -31,3 +31,36 @@
 /home/20211ewbj0302/Documentos/Filmes/obj/Debug/net7.0/Filmes.pdb
 /home/20211ewbj0302/Documentos/Filmes/obj/Debug/net7.0/Filmes.genruntimeconfig.cache
 /home/20211ewbj0302/Documentos/Filmes/obj/Debug/net7.0/ref/Filmes.dll
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\Filmes.csproj.AssemblyReference.cache
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\Filmes.AssemblyInfoInputs.cache
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\Filmes.AssemblyInfo.cs
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\Filmes.csproj.CoreCompileInputs.cache
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\Filmes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\Filmes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\Filmes.dll
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\refint\Filmes.dll
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\Filmes.pdb
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\bin\Debug\net7.0\appsettings.json
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\bin\Debug\net7.0\Filmes.exe
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\bin\Debug\net7.0\Filmes.deps.json
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\bin\Debug\net7.0\Filmes.runtimeconfig.json
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\bin\Debug\net7.0\Filmes.dll
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\bin\Debug\net7.0\Filmes.pdb
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\staticwebassets\msbuild.Filmes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\staticwebassets\msbuild.build.Filmes.props
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Filmes.props
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Filmes.props
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\scopedcss\bundle\Filmes.styles.css
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\Filmes.csproj.CopyComplete
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\Filmes.genruntimeconfig.cache
+C:\Users\Elayne Melo\Desktop\dot_net_geral\streaming_filmes\obj\Debug\net7.0\ref\Filmes.dll

@@ -460,24 +460,32 @@
     ]
   },
   "packageFolders": {
-    "/home/20211ewbj0302/.nuget/packages/": {}
+    "C:\\Users\\Elayne Melo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/20211ewbj0302/Documentos/Filmes/Filmes.csproj",
+      "projectUniqueName": "C:\\Users\\Elayne Melo\\Desktop\\dot_net_geral\\streaming_filmes\\Filmes.csproj",
       "projectName": "Filmes",
-      "projectPath": "/home/20211ewbj0302/Documentos/Filmes/Filmes.csproj",
-      "packagesPath": "/home/20211ewbj0302/.nuget/packages/",
-      "outputPath": "/home/20211ewbj0302/Documentos/Filmes/obj/",
+      "projectPath": "C:\\Users\\Elayne Melo\\Desktop\\dot_net_geral\\streaming_filmes\\Filmes.csproj",
+      "packagesPath": "C:\\Users\\Elayne Melo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Elayne Melo\\Desktop\\dot_net_geral\\streaming_filmes\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/20211ewbj0302/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Elayne Melo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -516,6 +524,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.2, 7.0.2]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.2, 7.0.2]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.2, 7.0.2]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.2, 7.0.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -524,7 +550,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.100-preview.2.23157.25\\RuntimeIdentifierGraph.json"
       }
     }
   }
